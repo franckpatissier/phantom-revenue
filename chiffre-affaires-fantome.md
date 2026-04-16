@@ -105,7 +105,7 @@ Les outils de gestion comme les ERP et CRM permettent de :
 
 Estimez votre chiffre d'affaires fantôme et identifiez vos pertes invisibles :
 
-https://orbeet.io/survey/start/odoo4sales
+https://orbeet.io/survey/start/chiffre-affaires-fantome
 
 ---
 
