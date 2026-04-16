@@ -105,8 +105,7 @@ Management tools such as ERP and CRM systems help to:
 
 Estimate your phantom revenue and identify hidden losses:
 
-https://orbeet.io/survey/start/odoo4sales
-
+https://orbeet.io/survey/start/chiffre-affaires-fantome
 ---
 
 ## Origin of the concept
