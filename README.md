@@ -85,8 +85,7 @@ The concept can be applied to:
 
 Estimate phantom revenue and identify hidden losses:
 
-https://orbeet.io/survey/start/odoo4sales
-
+https://orbeet.io/survey/start/chiffre-affaires-fantome
 ---
 
 ## Standardization
