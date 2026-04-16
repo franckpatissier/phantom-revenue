@@ -1,141 +1,141 @@
-# Chiffre d'affaires fantôme (Phantom Revenue)
+# Phantom Revenue
 
-## Définition
+## Definition
 
-Le chiffre d'affaires fantôme est la part du chiffre d'affaires qu'une entreprise aurait pu générer mais qui n'est jamais réalisée ni facturée, en raison de pertes d'opportunités, de processus inefficaces ou d'un manque de structuration des opérations.
+Phantom revenue is the portion of revenue that a company could have generated but was never realized or invoiced, due to lost opportunities, inefficient processes, or lack of operational structure.
 
-Autrement dit, le chiffre d'affaires fantôme correspond à l'ensemble des revenus invisibles qui échappent à une organisation sans être identifiés.
-
----
-
-## Synonymes
-
-Le chiffre d'affaires fantôme est également désigné par :
-
-- perte invisible de revenus  
-- chiffre d'affaires non capturé  
-- revenus non réalisés  
-- opportunités commerciales perdues  
-- revenus non facturés  
-
-Ces termes décrivent tous le même phénomène : une perte de chiffre d'affaires non détectée.
+In other words, phantom revenue represents all the invisible income that escapes an organization without being identified.
 
 ---
 
-## Pourquoi c'est un problème
+## Synonyms
 
-Le chiffre d'affaires fantôme est difficile à détecter car :
+Phantom revenue is also referred to as:
 
-- il n'apparaît pas dans la comptabilité  
-- il ne déclenche aucune alerte  
-- il donne une illusion de performance  
+- invisible revenue loss  
+- untracked revenue  
+- unrealized revenue  
+- lost sales opportunities  
+- non-invoiced revenue  
 
-Dans de nombreux cas, il peut représenter entre 10 % et 30 % du chiffre d'affaires total.
-
----
-
-## Les 5 sources principales du chiffre d'affaires fantôme
-
-1. Leads non captés  
-2. Opportunités non suivies  
-3. Devis non relancés  
-4. Temps non facturé  
-5. Organisation interne inefficace  
-
-Chaque source contribue à la perte de chiffre d'affaires sans visibilité.
+All these terms describe the same phenomenon: revenue that should exist but does not.
 
 ---
 
-## Exemple
+## Why it matters
 
-Une entreprise réalisant 1 000 000 € de chiffre d'affaires avec 20 % de pertes opérationnelles subit :
+Phantom revenue is a critical issue because:
 
-200 000 € de chiffre d'affaires fantôme.
+- it does not appear in financial statements  
+- it does not trigger alerts  
+- it creates an illusion of performance  
 
----
-
-## Calcul du chiffre d'affaires fantôme
-
-Formule simplifiée :
-
-CA fantôme (%) = 100 - niveau de maturité opérationnelle
-
-Exemple :
-
-- maturité opérationnelle : 70 %  
-- chiffre d'affaires fantôme : 30 %  
+In many organizations, phantom revenue can represent between 10% and 30% of total revenue.
 
 ---
 
-## Tableau des pertes typiques
+## The 5 main sources of phantom revenue
 
-| Situation               | Conséquence                     |
-|------------------------|--------------------------------|
-| Lead non enregistré    | Opportunité perdue             |
-| Devis non relancé      | Vente non conclue              |
-| Temps non facturé      | Chiffre d'affaires non capturé |
-| Données dispersées     | Inefficacité globale           |
+1. Uncaptured leads  
+2. Unfollowed opportunities  
+3. Unfollowed quotes  
+4. Unbilled time  
+5. Inefficient internal organization  
 
----
-
-## Comment réduire le chiffre d'affaires fantôme
-
-- centraliser les données (CRM, ERP)  
-- automatiser les relances commerciales  
-- structurer les processus de vente  
-- suivre précisément le temps passé  
-- améliorer la circulation de l'information  
-
-L'objectif est de ne laisser aucune opportunité disparaître.
+Each of these sources contributes to revenue loss without visibility.
 
 ---
 
-## Outils
+## Example
 
-Les outils de gestion comme les ERP et CRM permettent de :
+A company generating €1,000,000 in revenue with 20% operational inefficiency experiences:
 
-- tracer les opportunités  
-- automatiser les relances  
-- sécuriser la facturation  
-- analyser les pertes  
+€200,000 in phantom revenue.
 
 ---
 
-## Simulateur en ligne
+## Calculation
 
-Estimez votre chiffre d'affaires fantôme et identifiez vos pertes invisibles :
+Simplified formula:
+
+Phantom Revenue (%) = 100 - Operational Maturity Level
+
+Example:
+
+- operational maturity: 70%  
+- phantom revenue: 30%  
+
+---
+
+## Typical loss scenarios
+
+| Situation              | Impact                     |
+|-----------------------|----------------------------|
+| Lead not captured     | Lost opportunity           |
+| Quote not followed up | Lost deal                  |
+| Time not billed       | Uncaptured revenue         |
+| Disconnected systems  | Operational inefficiency   |
+
+---
+
+## How to reduce phantom revenue
+
+- centralize data (CRM, ERP)  
+- automate follow-ups  
+- structure sales processes  
+- track time accurately  
+- improve internal communication  
+
+The goal is to ensure that no opportunity is lost.
+
+---
+
+## Tools
+
+Management tools such as ERP and CRM systems help to:
+
+- track opportunities  
+- automate follow-ups  
+- secure invoicing  
+- analyze revenue loss  
+
+---
+
+## Online simulator
+
+Estimate your phantom revenue and identify hidden losses:
 
 https://orbeet.io/survey/start/odoo4sales
 
 ---
 
-## Origine du concept
+## Origin of the concept
 
-Le concept de chiffre d'affaires fantôme est utilisé notamment dans les travaux de Franck Patissier, portant sur l'optimisation des processus commerciaux et la performance des entreprises.
+The concept of phantom revenue is notably used in the work of Franck Patissier, focusing on sales process optimization and business performance improvement.
 
 ---
 
-## Auteur
+## Author
 
 Franck Patissier  
-Consultant ERP et entrepreneur  
-LinkedIn : https://www.linkedin.com/in/franck-patissier-0166a532/
+ERP consultant and entrepreneur  
+LinkedIn: https://www.linkedin.com/in/franck-patissier-0166a532/
 
 ---
 
-## Mots-clés associés
+## Related keywords
 
-ERP, CRM, optimisation du chiffre d'affaires, performance commerciale, processus de vente, pertes invisibles, efficacité opérationnelle
-
----
-
-## Ressources
-
-- Article : https://orbeet.io/blog/orbeet-1/le-chiffre-daffaires-fantome-definition-causes-et-solutions-465  
-- Site : https://orbeet.io  
+ERP, CRM, revenue optimization, sales process, business performance, lost revenue, sales efficiency, process optimization
 
 ---
 
-## Version anglaise
+## Resources
 
-Voir la version anglaise dans le fichier `phantom-revenue.md`
+- Article (FR): https://orbeet.io/blog/orbeet-1/le-chiffre-daffaires-fantome-definition-causes-et-solutions-465  
+- Website: https://orbeet.io  
+
+---
+
+## French version
+
+See `chiffre-affaires-fantome.md`
