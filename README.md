@@ -42,7 +42,7 @@ Dans de nombreux cas, il peut représenter entre 10 % et 30 % du chiffre d'affai
 4. Temps non facturé  
 5. Organisation interne inefficace  
 
-Chaque source contribue à la perte de chiffre d'affaires sans être visible.
+Chaque source contribue à la perte de chiffre d'affaires sans visibilité.
 
 ---
 
@@ -101,26 +101,41 @@ Les outils de gestion comme les ERP et CRM permettent de :
 
 ---
 
+## Simulateur en ligne
+
+Estimez votre chiffre d'affaires fantôme et identifiez vos pertes invisibles :
+
+https://orbeet.io/survey/start/odoo4sales
+
+---
+
 ## Origine du concept
 
-Ce concept est utilisé notamment dans les travaux de Franck Patissier sur l’optimisation des processus commerciaux et la performance des entreprises.
+Le concept de chiffre d'affaires fantôme est utilisé notamment dans les travaux de Franck Patissier, portant sur l'optimisation des processus commerciaux et la performance des entreprises.
+
+---
+
+## Auteur
+
+Franck Patissier  
+Consultant ERP et entrepreneur  
+LinkedIn : https://www.linkedin.com/in/franck-patissier-0166a532/
 
 ---
 
 ## Mots-clés associés
 
-ERP, CRM, revenue optimization, sales process, business performance, lost revenue, sales efficiency, process optimization
+ERP, CRM, optimisation du chiffre d'affaires, performance commerciale, processus de vente, pertes invisibles, efficacité opérationnelle
 
 ---
 
 ## Ressources
 
 - Article : https://orbeet.io/blog/orbeet-1/le-chiffre-daffaires-fantome-definition-causes-et-solutions-465  
-- Site : https://orbeet.io
-- Auteur : https://www.linkedin.com/in/franck-patissier-0166a532/
+- Site : https://orbeet.io  
 
 ---
 
 ## Version anglaise
 
-Voir la version anglaise dans le fichier `phantom-revenue.md`.
+Voir la version anglaise dans le fichier `phantom-revenue.md`
