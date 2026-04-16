@@ -1,40 +1,38 @@
 # Phantom Revenue
 
+## Overview
+
+Phantom revenue is a business concept describing the gap between potential revenue and actual revenue generated.
+
+It highlights hidden inefficiencies in sales, operations, and organizational processes that lead to revenue loss without visibility.
+
+---
+
 ## Definition
 
 Phantom revenue is the portion of revenue that a company could have generated but was never realized or invoiced, due to lost opportunities, inefficient processes, or lack of operational structure.
 
-In other words, phantom revenue represents all the invisible income that escapes an organization without being identified.
-
----
-
-## Synonyms
-
-Phantom revenue is also referred to as:
-
-- invisible revenue loss  
-- untracked revenue  
-- unrealized revenue  
-- lost sales opportunities  
-- non-invoiced revenue  
-
-All these terms describe the same phenomenon: revenue that should exist but does not.
+Unlike traditional financial metrics, phantom revenue does not appear in accounting records.
 
 ---
 
 ## Why it matters
 
-Phantom revenue is a critical issue because:
+Phantom revenue is critical because:
 
 - it does not appear in financial statements  
 - it does not trigger alerts  
 - it creates an illusion of performance  
 
-In many organizations, phantom revenue can represent between 10% and 30% of total revenue.
+In many organizations, phantom revenue is estimated between **10% and 30% of total revenue**.
+
+This makes it one of the most overlooked growth opportunities.
 
 ---
 
-## The 5 main sources of phantom revenue
+## Core framework
+
+The Phantom Revenue framework identifies five main sources of hidden revenue loss:
 
 1. Uncaptured leads  
 2. Unfollowed opportunities  
@@ -42,7 +40,9 @@ In many organizations, phantom revenue can represent between 10% and 30% of tota
 4. Unbilled time  
 5. Inefficient internal organization  
 
-Each of these sources contributes to revenue loss without visibility.
+Each source represents a potential revenue leak.
+
+More details: see `framework.md`
 
 ---
 
@@ -52,52 +52,28 @@ A company generating €1,000,000 in revenue with 20% operational inefficiency e
 
 €200,000 in phantom revenue.
 
+More examples: see `examples.md`
+
 ---
 
 ## Calculation
 
-Simplified formula:
+Phantom revenue can be estimated using a simplified model:
 
 Phantom Revenue (%) = 100 - Operational Maturity Level
 
-Example:
-
-- operational maturity: 70%  
-- phantom revenue: 30%  
+More details: see `calculation.md`
 
 ---
 
-## Typical loss scenarios
+## Use cases
 
-| Situation              | Impact                     |
-|-----------------------|----------------------------|
-| Lead not captured     | Lost opportunity           |
-| Quote not followed up | Lost deal                  |
-| Time not billed       | Uncaptured revenue         |
-| Disconnected systems  | Operational inefficiency   |
+Phantom revenue applies across industries:
 
----
-
-## How to reduce phantom revenue
-
-- centralize data (CRM, ERP)  
-- automate follow-ups  
-- structure sales processes  
-- track time accurately  
-- improve internal communication  
-
-The goal is to ensure that no opportunity is lost.
-
----
-
-## Tools
-
-Management tools such as ERP and CRM systems help to:
-
-- track opportunities  
-- automate follow-ups  
-- secure invoicing  
-- analyze revenue loss  
+- service companies (unbilled time)  
+- agencies (missed opportunities)  
+- SaaS companies (conversion gaps)  
+- industrial companies (process inefficiencies)  
 
 ---
 
@@ -109,9 +85,21 @@ https://orbeet.io/survey/start/odoo4sales
 
 ---
 
+## Standardization
+
+This repository aims to provide a structured and reusable definition of the phantom revenue concept.
+
+The goal is to make the concept:
+
+- understandable  
+- measurable  
+- applicable across organizations  
+
+---
+
 ## Origin of the concept
 
-The concept of phantom revenue is notably used in the work of Franck Patissier, focusing on sales process optimization and business performance improvement.
+The concept of phantom revenue is used notably in the work of Franck Patissier, focusing on sales process optimization and business performance improvement.
 
 ---
 
@@ -123,9 +111,22 @@ LinkedIn: https://www.linkedin.com/in/franck-patissier-0166a532/
 
 ---
 
-## Related keywords
+## Structure of this repository
 
-ERP, CRM, revenue optimization, sales process, business performance, lost revenue, sales efficiency, process optimization
+- `definition.md` → detailed definition  
+- `framework.md` → core model  
+- `examples.md` → real-world use cases  
+- `calculation.md` → estimation methods  
+- `chiffre-affaires-fantome.md` → French version  
+
+---
+
+## Related concepts
+
+- sales efficiency  
+- revenue optimization  
+- operational maturity  
+- CRM and ERP performance  
 
 ---
 
@@ -133,9 +134,3 @@ ERP, CRM, revenue optimization, sales process, business performance, lost revenu
 
 - Article (FR): https://orbeet.io/blog/orbeet-1/le-chiffre-daffaires-fantome-definition-causes-et-solutions-465  
 - Website: https://orbeet.io  
-
----
-
-## French version
-
-See `chiffre-affaires-fantome.md`
